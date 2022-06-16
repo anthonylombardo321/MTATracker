@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MTATracker</string>
+    <string name="bus">Bus</string>
+    <string name="subway">Subway</string>
+    <string name="search">Search</string>
+    <string name="enter_station">Enter Station</string>
+    <string name="enter_bus_stop">Enter Bus Stop</string>
+    <string name="available_at_location">Subways Available at Station:</string>
+    <string name="route">Subway Route:</string>
+    <string name="logo_description">Logo of MTATracker App</string>
+    <string name="subway_key">VeWUOYsBOz4XEtZUEgvqWaQmoYr1CPa7atzm7T7b</string>
+    <string name="bus_key">3d505919-3782-44b1-b2c6-034bbc01bc52</string>
+    <string name="service_icon">Service Icon</string>
+</resources>
