@@ -29,4 +29,4 @@ Given the subway/bus stop, service, and route as input, the app displays a list 
 ## Notes
 - Subway data comes from MTA's GTFS Realtime Data Feeds.
 - Bus data comes from MTA's Bus Time REST API.
-- The bus service icons found in results were programmatically made using Android's Graphics framework.
+- The bus service icons found in the results activity were programmatically made using Android's Graphics framework.
